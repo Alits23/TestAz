@@ -1,9 +1,5 @@
 # ftbh
-
-A new Flutter project.
-test
-test 2
-bye
+newline
 ## Getting Started
 
 This project is a starting point for a Flutter application.
