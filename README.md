@@ -1,5 +1,12 @@
 # ftbh
+<<<<<<< HEAD
 newline
+=======
+
+A new Flutter project.
+test
+test 2
+>>>>>>> 946e21f (fix)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
