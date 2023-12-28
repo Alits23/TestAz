@@ -13,7 +13,7 @@ Widget MyApp() {
           child: Text(
             'Ali tashakori',
             style: TextStyle(
-              fontSize: 24,
+              fontSize: 20,
               fontWeight: FontWeight.bold,
               color: Colors.black,
             ),
