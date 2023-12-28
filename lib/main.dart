@@ -15,7 +15,7 @@ Widget MyApp() {
             style: TextStyle(
               fontSize: 28,
               fontWeight: FontWeight.normal,
-              color: Colors.red,
+              color: Colors.blue,
             ),
           ),
         ),
