@@ -11,10 +11,10 @@ Widget MyApp() {
       body: SafeArea(
         child: Center(
           child: Text(
-            'Ali tashakori',
+            'Mohammad Nazari',
             style: TextStyle(
-              fontSize: 20,
-              fontWeight: FontWeight.bold,
+              fontSize: 28,
+              fontWeight: FontWeight.normal,
               color: Colors.red,
             ),
           ),
