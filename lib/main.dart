@@ -13,8 +13,8 @@ Widget MyApp() {
           child: Text(
             'Mohammad Nazari',
             style: TextStyle(
-              fontSize: 18,
-              fontWeight: FontWeight.bold,
+              fontSize: 28,
+              fontWeight: FontWeight.normal,
               color: Colors.red,
             ),
           ),
