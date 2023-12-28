@@ -11,7 +11,7 @@ Widget MyApp() {
       body: SafeArea(
         child: Center(
           child: Text(
-            'Ali taashakori',
+            'Ali tashakori',
             style: TextStyle(
               fontSize: 24,
               fontWeight: FontWeight.bold,
