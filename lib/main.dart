@@ -13,9 +13,9 @@ Widget MyApp() {
           child: Text(
             'Mohammad Nazari',
             style: TextStyle(
-              fontSize: 28,
-              fontWeight: FontWeight.normal,
-              color: Colors.blue,
+              fontSize: 20,
+              fontWeight: FontWeight.bold,
+              color: Colors.black,
             ),
           ),
         ),
