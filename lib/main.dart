@@ -9,15 +9,25 @@ Widget MyApp() {
     home: Scaffold(
       backgroundColor: Colors.greenAccent,
       body: SafeArea(
-        child: Center(
-          child: Text(
-            'Mohammad Nazari',
-            style: TextStyle(
-              fontSize: 28,
-              fontWeight: FontWeight.normal,
-              color: Colors.blue,
+        child: Column(
+          children: [
+            Center(
+              child: Text(
+                'Mohammad Nazari',
+                style: TextStyle(
+                  fontSize: 28,
+                  fontWeight: FontWeight.normal,
+                  color: Colors.blue,
+                ),
+              ),
             ),
-          ),
+            ElevatedButton(
+              onPressed: () {
+                print('order complited');
+              },
+              child: Text('click to buy'),
+            ),
+          ],
         ),
       ),
     ),
