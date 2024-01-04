@@ -25,7 +25,7 @@ Widget MyApp() {
               onPressed: () {
                 print('order complited');
               },
-              child: Text('click to buy'),
+              child: Text('click to buy and sell'),
             ),
           ],
         ),
